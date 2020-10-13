@@ -92,7 +92,7 @@ payload:
 
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
-  - DOMAIN-SUFFIX,smtp
+  # - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
 
   - DOMAIN-SUFFIX,local
