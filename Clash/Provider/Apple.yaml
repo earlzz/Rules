@@ -23,6 +23,7 @@ payload:
 
   # > Apple News
   - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,akadns.net
 
   # > Apple Maps
   - PROCESS-NAME,com.apple.geod
