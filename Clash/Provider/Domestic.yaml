@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,air-matters.com
   - DOMAIN-SUFFIX,air-matters.io
   - DOMAIN-SUFFIX,aixifan.com
-  - DOMAIN-SUFFIX,akadns.net
+  # - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alipay.com
@@ -223,7 +223,6 @@ payload:
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,tawk.link
   - DOMAIN-SUFFIX,tawk.to
-  - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tietuku.com
   - DOMAIN-SUFFIX,tmall.com
